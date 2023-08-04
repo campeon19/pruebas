@@ -1,0 +1,84 @@
+h1 { 
+      
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(173, 255, 47);
+    color:black;
+    margin-bottom: 5px;
+}
+html { 
+    background-color:skyblue;
+ }
+    
+     h3 { 
+    background-color: Gold;
+    border-radius: 6px; 
+    text-decoration:none;
+    color: red;
+    margin-top:1px;
+
+     }
+    a { 
+    text-decoration:none;
+    color:black;
+    font-size: larger;
+ 
+}
+    
+h4 { 
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    background-color: rgb(255, 255, 255, .80);
+    border-radius:4.5px;
+    border-style:double;
+    border-color:lightGreen;
+    margin-bottom: 0px;
+    margin-top: 2px;
+
+}
+h2 { 
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    background-color: rgb(255, 255, 255, .80);
+    border-radius:4.5px;
+    border-style:double;
+    border-color:lightGreen;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+ul { 
+      
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     color:black;
+}
+p { 
+    color: rgb(118, 86, 7)
+  }
+  h5 { 
+    margin-bottom: 1px;
+    background-color:rgb(232, 232, 140);
+    color:black;
+      }
+       .container  { 
+        display:grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-gap: 8px;
+       
+      }
+      .column  { 
+        background-color: orange;
+        padding: 10px;
+        border-radius: 6px;
+       }
+       img { 
+       margin-top: 10px;
+       
+      
+        }
+    
+
+    
+
+
+
+  
+ 
